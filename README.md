@@ -3,5 +3,7 @@
 </p>
 
 <p align="center">
+    <b>
 Simple. Fast. Secure. 
+    </b>
 </p>
