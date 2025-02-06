@@ -2,12 +2,6 @@
     <img width="200" src="https://cdn.discordapp.com/attachments/1300094976155451402/1336280808272433154/Picsart_25-01-05_13-16-49-500-removebg-preview.png?ex=67a33bfb&is=67a1ea7b&hm=599ea98769ca68161927823e5502cb11a32916292f3026279372f30fc73bb658&" alt="Material Bread logo">
 </p>
 
-<p align="center">
-    <b>
-Simple. Fast. Secure. 
-    </b>
-</p>
-
 # **PrivyShell**  
 
 PrivyShell is a powerful multitool written in Python with a built-in Discord-based CLI.
@@ -20,15 +14,9 @@ PrivyShell is a powerful multitool written in Python with a built-in Discord-bas
 To install PrivyShell, simply run the following command:  
 
 ```bash
-# Run the installation script (URL to be provided later)
-curl -sSL | python3
+git clone 
 ```
 
-Or, for Windows users:  
-
-```powershell
-Invoke-WebRequest -Uri "" -OutFile "install.py"; python install.py
-```
 
 ## **Usage**  
 Once installed, you can start PrivyShell by running:  
