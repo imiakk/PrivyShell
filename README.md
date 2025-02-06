@@ -5,7 +5,7 @@
 PrivyShell is a powerful multitool written in Python with a built-in Discord-based CLI.
 
 ## **Features**  
-✅ Command-line interface via Discord  
+✅ Command-line interface Discord Self Bot 
 ✅️ Password Saver
 
 ## **Installation**  
@@ -20,7 +20,8 @@ git clone https://github.com/imiakk/PrivyShell.git
 Once installed, you can start PrivyShell by running:  
 
 ```bash
-cd privyshell
+cd PrivyShell
+pip install ping3 requests asyncio discord.py==1.7.3
 python main.py
 ```
 
