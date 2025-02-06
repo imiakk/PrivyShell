@@ -1,6 +1,4 @@
-<p align="center">
-    <img width="200" src="https://github.com/imiakk/PrivyShell/tree/main" alt="logo">
-</p>
+
 
 # **PrivyShell**  
 
