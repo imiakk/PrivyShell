@@ -12,7 +12,7 @@ PrivyShell is a powerful multitool written in Python with a built-in Discord-bas
 To install PrivyShell, simply run the following command:  
 
 ```bash
-git clone 
+git clone https://github.com/imiakk/PrivyShell.git
 ```
 
 
