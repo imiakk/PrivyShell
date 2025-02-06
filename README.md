@@ -6,6 +6,7 @@ PrivyShell is a powerful multitool written in Python with a built-in Discord-bas
 
 ## **Features**  
 ✅ Command-line interface Discord Self Bot 
+
 ✅️ Password Saver
 
 ## **Installation**  
